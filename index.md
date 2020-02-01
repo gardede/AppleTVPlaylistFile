@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to AppleTVPlayListFile pages
 
 You can use the [editor on GitHub](https://github.com/gardede/AppleTVPlaylistFile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
